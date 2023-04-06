@@ -5820,7 +5820,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHTNG0Sr46ndc="
 					},
-					"name": "Gestion de Stock y Herramental",
+					"name": "Cuentas y Navegación",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCaseDiagram",
@@ -5828,7 +5828,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHTN0GNr+RtCI="
 							},
-							"name": "Gestion de Stock y Herramental",
+							"name": "Cuentas y Navegación",
 							"ownedViews": [
 								{
 									"_type": "UMLActorView",
@@ -5887,7 +5887,7 @@
 													"top": 736,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -6067,7 +6067,7 @@
 													"top": -288,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -6247,7 +6247,7 @@
 													"top": -656,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -6427,7 +6427,7 @@
 													"top": -176,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -6607,7 +6607,7 @@
 													"top": -160,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -6786,7 +6786,7 @@
 													"top": -64,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -6983,7 +6983,7 @@
 													"top": -192,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -7726,7 +7726,7 @@
 													"top": -64,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -8387,7 +8387,7 @@
 													"top": -96,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -8860,7 +8860,7 @@
 													"top": -96,
 													"width": 222.51708984375,
 													"height": 13,
-													"text": "(from Gestion de Stock y Herramental)"
+													"text": "(from Cuentas y Navegación)"
 												},
 												{
 													"_type": "LabelView",
@@ -9712,7 +9712,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHTNG0Sr46ndc="
 					},
-					"name": "Cuentas y Navegacion",
+					"name": "Gestión de Stock y Herramental",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCaseDiagram",
@@ -9720,7 +9720,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHTN3jab+cwnc="
 							},
-							"name": "Cuentas y Navegacion"
+							"name": "Gestión de Stock y Herramental"
 						}
 					]
 				}
